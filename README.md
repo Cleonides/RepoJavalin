@@ -1,4 +1,4 @@
-# JAVALIN(microframework) COM REDIS
+# JAVALIN(microframework) COM REDIS(banco em memória)
 
 <p align="center">
   <img src="caminho/para/imagem.png" alt="Imagem do Projeto" width="300"/>
