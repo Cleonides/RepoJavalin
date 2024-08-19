@@ -1,9 +1,9 @@
-package com.example.demo;
+package com;
 
 import lombok.Getter;
 import lombok.Setter;
 import redis.clients.jedis.Jedis;
-
+//Arquivo de inicialização do redis
 @Getter
 @Setter
 public class RedisConfig {

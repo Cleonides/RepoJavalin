@@ -1,4 +1,5 @@
-package com.example.demo;
+package com;
 
+//Repositório
 public class UserRepository {
 }

@@ -1,4 +1,4 @@
-package com.example.demo;
+package com;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
@@ -10,6 +10,7 @@ import java.util.HashSet;
 import java.util.Objects;
 import java.util.Set;
 
+//Usando Redis para gerenciar os dados
 public class UserController {
     public static final String USER = "user:";
     private final RedisConfig redisConfig;

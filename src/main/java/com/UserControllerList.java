@@ -1,4 +1,4 @@
-package com.example.demo;
+package com;
 
 import io.javalin.Context;
 
@@ -6,6 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Objects;
 
+//Classe usada para processar os dados em lista de memória
 public class UserControllerList {
     private final List<User> users = new ArrayList<>();
     private int currentId = 1;
